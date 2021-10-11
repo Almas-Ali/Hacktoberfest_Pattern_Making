@@ -22,7 +22,7 @@ in respective folders on any topic don't forget to read the rules below for suce
   <li>⚔️ Put your files in correct folder like .cpp file in  c++ folder or .py file in python folder</li>
   <li>⚔️ Add your name in contribute file is nessary so do it carefully</li>
   <li>⚔️ Dont forget to star this repository and watch for more updates</li>
-  <li>🦸‍♂️ you can also follow me on <a href="https://github.com/Shubham56-droid">Shubham56-droid</a>
+  <li>🦸‍♂️ you can also follow me on <a href="https://github.com/Almas-Ali">Md. Almas Ali</a>
 </ul>
 
 <h2>🛡 Notice</h2>
