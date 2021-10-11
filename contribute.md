@@ -5,7 +5,7 @@ edit the code and  all your contribution name to this contribute.md file
 dont forget to put your name in  this contribution.md file
 happy hactoberfest 2021
 <h2>List of contributors</h2>
-<p>Pls dont forget to upadate your name email and github userid</p>
+<p>Please don't forget to update your Name Email and Github user ID.</p>
 
 
 | Name | Github Link | Email ID |
