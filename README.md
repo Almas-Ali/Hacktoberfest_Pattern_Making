@@ -1,5 +1,5 @@
 <h1>✨Hacktober Fest 2021✨</h1>
-<p>🙏 All Contributors are requested to star this repo and follow me for a successful merge of pull request.🙏</p>
+<p>🙂 All Contributors are requested to star this repo and follow me for a successful merge of pull request.🙂</p>
 <h2>👉 Add any pattern program in any programming language<br/>
 -🤖 C++ <br/>
 -🤖 C <br/>
