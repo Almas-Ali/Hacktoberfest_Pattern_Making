@@ -6,5 +6,10 @@ dont forget to put your name in  this contribution.md file
 happy hactoberfest 2021
 <h2>List of contributors</h2>
 <p>Pls dont forget to upadate your name email and github userid</p>
-<p>Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="shubhambawankar735@gmail.com">mail id</a> |</p>
-<p>Haider Ali | <a href="https://github.com/Haideralee">Haideralee</a>  | <a href="haiderali3010@gmail.com">mail id</a> |</p>
+
+
+| Name | Github Link | Email ID |
+---------------
+| Md. Almas Ali | <a href="https://github.com/Almas-Ali">Almas-Ali</a> | <a href="mailto:almaspr3@gmail.com">Mail</a> |
+| Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="mailto:shubhambawankar735@gmail.com">mail id</a> |
+| Haider Ali | <a href="https://github.com/Haideralee">Haideralee</a>  | <a href="mailto:haiderali3010@gmail.com">mail id</a> |
