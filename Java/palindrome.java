@@ -1,25 +1,22 @@
-import java.util.Scanner;
-public class palindrome
-{
-    public static void main(String args[])
-    {
-        String x, y = "";
-        Scanner scan = new Scanner(System.in);
-        System.out.print("Enter the string you want to check:");
-        x = scan.nextLine();
-        int len = x.length();
-       for(int t = len - 1; t >= 0; t--)
-     {
-          y = y + x.charAt(t);
-      }
-      if(x.equalsIgnoreCase(y))
-        {
-            System.out.println("The string is a palindrome.");
-        }
-        else
-        {
-            System.out.println("The string is not a palindrome.");
-        }
-        scan.close();
-    }
-}
+// Java program to find palindrome number
+// Contributed by Anant Chaudhary
+import java.util.*;
+public class Main 
+{  
+   public static void main(String[] args) 
+   {  
+       //Take input from the user
+       //Create instance of the Scanner class
+       Scanner sc = new Scanner(System.in);  
+       System.out.println("Enter the number: ");  
+       String reverse = ""; 
+       String num = sc.nextLine(); 
+       int length = num.length();   
+      for ( int i = length - 1; i >= 0; i-- )  
+         reverse = reverse + num.charAt(i);  
+      if (num.equals(reverse))  
+         System.out.println("The entered string " +num +" is a palindrome.");  
+      else  
+         System.out.println("The entered string " +num +"  isn't a palindrome.");     
+  }
+} 
