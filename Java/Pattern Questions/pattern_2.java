@@ -3,7 +3,7 @@
 
 package com.java;
 
-public class patternQns2 {
+public class pattern_2{
     public static void main(String[] args) {
         int n = 5;
         Answer(n);
