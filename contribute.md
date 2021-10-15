@@ -13,3 +13,4 @@ happy hactoberfest 2021
 | Md. Almas Ali | <a href="https://github.com/Almas-Ali">Almas-Ali</a> | <a href="mailto:almaspr3@gmail.com">Mail</a> |
 | Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="mailto:shubhambawankar735@gmail.com">mail id</a> |
 | Haider Ali | <a href="https://github.com/Haideralee">Haideralee</a>  | <a href="mailto:haiderali3010@gmail.com">mail id</a> |
+| Xena Makky | <a href="https://github.com/xenamakky">xenamakky</a> | <a href="mailto:xenamm2@yahoo.com">Email</a> |
