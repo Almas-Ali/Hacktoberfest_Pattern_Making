@@ -27,6 +27,7 @@ public class pattern_3{
 // *
 
 // We Can Also Print This Pattern by this Method
+
 public class star_pattern {
 
     public static void main(String[] args) {
@@ -39,3 +40,10 @@ public class star_pattern {
             }
             System.out.println();
         }
+// OUTPUT
+        
+// * * * * * 
+// * * * * 
+// * * * 
+// * * 
+// * 
