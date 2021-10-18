@@ -16,3 +16,4 @@ happy hactoberfest 2021
 | Xena Makky | <a href="https://github.com/xenamakky">xenamakky</a> | <a href="mailto:xenamm2@yahoo.com">Email</a> |
 | Kajal Shirsat | <a href="https://github.com/kajalshirsat">kajalshirsat</a> | <a href="mailto:kajalshirsat0508@gmail.com">Mail</a>
 |Ayan Chakrabortty |<a href="https://github.com/Ayanchakrabortty">Ayanchakrabortty</a>|<a href="mailto:ayanchakrabortty25@gmail.com">Mail id</a>
+|Aditya Singh |<a href="https://github.com/XenoCod">Aditya Singh</a>|<a href="mailto:adityakrsingh1999@gmail.com">Mail id</a>
