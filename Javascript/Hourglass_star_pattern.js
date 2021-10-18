@@ -1,38 +1,28 @@
 let n = 5;
 let string = "";
-// Upside pyramid
-// upside diamond
-for (let i = 1; i <= n; i++) {
+
+// reversed pyramid pattern
+for (let i = 0; i < n; i++) {
+  // printing spaces
+  for (let j = 0; j < i; j++) {
+    string += " ";
+  }
+  // printing star
+  for (let k = 0; k < (n - i) * 2 - 1; k++) {
+    string += "*";
+  }
+  string += "\n";
+}
+// pyramid pattern
+for (let i = 2; i <= n; i++) {
   // printing spaces
   for (let j = n; j > i; j--) {
     string += " ";
   }
   // printing star
   for (let k = 0; k < i * 2 - 1; k++) {
-    if (k === 0 || k === 2 * i - 2) {
-      string += "*";
-    }
-    else {
-      string += " ";
-    }
+    string += "*";
   }
   string += "\n";
 }
-// downside diamond
-for (let i = 1; i <= n - 1; i++) {
-    // printing spaces
-    for (let j = 0; j < i; j++) {
-      string += " ";
-    }
-    // printing star
-    for (let k = (n - i) * 2 - 1; k >= 1; k--) {
-      if (k === 1 || k === (n - i) * 2 - 1) {
-        string += "*";
-      }
-      else {
-        string += " ";
-      }
-    }
-    string += "\n";
-  }
 console.log(string);
