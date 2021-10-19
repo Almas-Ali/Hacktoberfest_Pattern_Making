@@ -18,3 +18,4 @@ happy hactoberfest 2021
 | Ayan Chakrabortty | <a href="https://github.com/Ayanchakrabortty">Ayanchakrabortty</a> | <a href="mailto:ayanchakrabortty25@gmail.com">Mail id</a> |
 | Aditya Singh |<a href="https://github.com/XenoCod">Aditya Singh</a>|<a href="mailto:adityakrsingh1999@gmail.com">Mail id</a>
 | Suruchi | <a href="https://github.com/jhaSuruchi">Suruchi</a> | <a href="mailto:suruchiedu2020@gmail.com">Mail</a> |
+| Yash atkare | <a href="https://github.com/yashatkare">yash atkare</a> | <a href="mailto:yashatkare9@gmail.com">Mail</a> |
