@@ -1,6 +1,6 @@
 # Frequency Sort 
 
-A java aprogram to sort an array of integers in increasing order based on the frequency of the values. If multiple values have the same frequency, sort them in decreasing order.
+A ```java```  program to sort an array of integers in increasing order based on the frequency of the values. If multiple values have the same frequency, sort them in decreasing order.
 
 <hr>
 
