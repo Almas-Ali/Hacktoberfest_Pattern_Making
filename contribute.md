@@ -21,3 +21,4 @@ happy hactoberfest 2021
 | Suruchi | <a href="https://github.com/jhaSuruchi">Suruchi</a> | <a href="mailto:suruchiedu2020@gmail.com">Mail</a> |
 | Yash atkare | <a href="https://github.com/yashatkare">yash atkare</a> | <a href="mailto:yashatkare9@gmail.com">Mail</a> |
 | Maheep Kumar | <a href="https://github.com/MaheepK9">Maheep Kumar</a> | <a href="mailto:maheepkumar972000@gmail.com">Mail</a> |
+| Prateiku | <a href="https://github.com/Prateiku">MPrateiku</a> | <a href="mailto:godsgift2000@gmail.com">Mail</a> |
