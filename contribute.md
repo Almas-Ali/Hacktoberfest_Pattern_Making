@@ -22,4 +22,4 @@ happy hactoberfest 2021
 | Yash atkare | <a href="https://github.com/yashatkare">yash atkare</a> | <a href="mailto:yashatkare9@gmail.com">Mail</a> |
 | Maheep Kumar | <a href="https://github.com/MaheepK9">Maheep Kumar</a> | <a href="mailto:maheepkumar972000@gmail.com">Mail</a> |
 | Adarsh Raj | <a href="https://github.com/dimensionl3ss">dimensionl3ss</a> | <a href="mailto:adarshraj0210@gmail.com">Mail</a> |
-
+| Prateiku | <a href="https://github.com/Prateiku">MPrateiku</a> | <a href="mailto:godsgift2000@gmail.com">Mail</a> |
