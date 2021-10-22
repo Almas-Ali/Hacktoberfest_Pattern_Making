@@ -1,3 +1,4 @@
+// Created by Fluxyl on GitHub
 import java.util.Scanner;
 
 public class UltraPattern {
