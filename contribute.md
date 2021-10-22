@@ -10,6 +10,7 @@ happy hactoberfest 2021
 
 | Name | Github Link | Email ID |
 | ------|----------|---------- |
+| Junaid shah | <a href="https://github.com/jsh854">junaid shah</a> | <a href="mailto:junaidshah349@gmail.com">Mail</a> |
 | Md. Almas Ali | <a href="https://github.com/Almas-Ali">Almas-Ali</a> | <a href="mailto:almaspr3@gmail.com">Mail</a> |
 | Fazil Khan | <a href="https://github.com/comedianfazil">Fazil-Khan</a> | <a href="mailto:comfazil@yahoo.com">Mail</a> |
 | Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="mailto:shubhambawankar735@gmail.com">mail id</a> |
