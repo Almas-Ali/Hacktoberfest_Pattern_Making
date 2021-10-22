@@ -11,6 +11,7 @@ happy hactoberfest 2021
 | Name | Github Link | Email ID |
 | ------|----------|---------- |
 | Md. Almas Ali | <a href="https://github.com/Almas-Ali">Almas-Ali</a> | <a href="mailto:almaspr3@gmail.com">Mail</a> |
+| Fazil Khan | <a href="https://github.com/comedianfazil">Fazil-Khan</a> | <a href="mailto:comfazil@yahoo.com">Mail</a> |
 | Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="mailto:shubhambawankar735@gmail.com">mail id</a> |
 | Haider Ali | <a href="https://github.com/Haideralee">Haideralee</a>  | <a href="mailto:haiderali3010@gmail.com">mail id</a> |
 | Xena Makky | <a href="https://github.com/xenamakky">xenamakky</a> | <a href="mailto:xenamm2@yahoo.com">Email</a> |
@@ -19,3 +20,7 @@ happy hactoberfest 2021
 | Aditya Singh |<a href="https://github.com/XenoCod">Aditya Singh</a>|<a href="mailto:adityakrsingh1999@gmail.com">Mail id</a>
 | Suruchi | <a href="https://github.com/jhaSuruchi">Suruchi</a> | <a href="mailto:suruchiedu2020@gmail.com">Mail</a> |
 | PRC Bhagya | <a href="https://github.com/PRCBhagya">PRCBhagya</a> | <a href="mailto:chiranib98@gmail.com">Mail</a> |
+| Yash atkare | <a href="https://github.com/yashatkare">yash atkare</a> | <a href="mailto:yashatkare9@gmail.com">Mail</a> |
+| Maheep Kumar | <a href="https://github.com/MaheepK9">Maheep Kumar</a> | <a href="mailto:maheepkumar972000@gmail.com">Mail</a> |
+| Prateiku | <a href="https://github.com/Prateiku">MPrateiku</a> | <a href="mailto:godsgift2000@gmail.com">Mail</a> |
+
