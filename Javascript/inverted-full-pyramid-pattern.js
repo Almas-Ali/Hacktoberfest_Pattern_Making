@@ -16,4 +16,4 @@ for (let i = 0; i < pyramidRows; i++) {
 }
 
 // render in dom.
-document.write(`<pre>${pyramid}</pre>`);
+console.log(`<pre>${pyramid}</pre>`);

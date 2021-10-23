@@ -5,6 +5,22 @@ edit the code and  all your contribution name to this contribute.md file
 dont forget to put your name in  this contribution.md file
 happy hactoberfest 2021
 <h2>List of contributors</h2>
-<p>Pls dont forget to upadate your name email and github userid</p>
-<p>Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="shubhambawankar735@gmail.com">mail id</a> |</p>
-<p>Haider Ali | <a href="https://github.com/Haideralee">Haideralee</a>  | <a href="haiderali3010@gmail.com">mail id</a> |</p>
+<p>Please don't forget to update your Name Email and Github user ID.</p>
+
+
+| Name | Github Link | Email ID |
+| ------|----------|---------- |
+| Junaid shah | <a href="https://github.com/jsh854">junaid shah</a> | <a href="mailto:junaidshah349@gmail.com">Mail</a> |
+| Md. Almas Ali | <a href="https://github.com/Almas-Ali">Almas-Ali</a> | <a href="mailto:almaspr3@gmail.com">Mail</a> |
+| Fazil Khan | <a href="https://github.com/comedianfazil">Fazil-Khan</a> | <a href="mailto:comfazil@yahoo.com">Mail</a> |
+| Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="mailto:shubhambawankar735@gmail.com">mail id</a> |
+| Haider Ali | <a href="https://github.com/Haideralee">Haideralee</a>  | <a href="mailto:haiderali3010@gmail.com">mail id</a> |
+| Xena Makky | <a href="https://github.com/xenamakky">xenamakky</a> | <a href="mailto:xenamm2@yahoo.com">Email</a> |
+| Kajal Shirsat | <a href="https://github.com/kajalshirsat">kajalshirsat</a> | <a href="mailto:kajalshirsat0508@gmail.com">Mail</a> |
+| Ayan Chakrabortty | <a href="https://github.com/Ayanchakrabortty">Ayanchakrabortty</a> | <a href="mailto:ayanchakrabortty25@gmail.com">Mail id</a> |
+| Aditya Singh |<a href="https://github.com/XenoCod">Aditya Singh</a>|<a href="mailto:adityakrsingh1999@gmail.com">Mail id</a>
+| Suruchi | <a href="https://github.com/jhaSuruchi">Suruchi</a> | <a href="mailto:suruchiedu2020@gmail.com">Mail</a> |
+| Yash atkare | <a href="https://github.com/yashatkare">yash atkare</a> | <a href="mailto:yashatkare9@gmail.com">Mail</a> |
+| Maheep Kumar | <a href="https://github.com/MaheepK9">Maheep Kumar</a> | <a href="mailto:maheepkumar972000@gmail.com">Mail</a> |
+| Adarsh Raj | <a href="https://github.com/dimensionl3ss">dimensionl3ss</a> | <a href="mailto:adarshraj0210@gmail.com">Mail</a> |
+| Prateiku | <a href="https://github.com/Prateiku">MPrateiku</a> | <a href="mailto:godsgift2000@gmail.com">Mail</a> |
