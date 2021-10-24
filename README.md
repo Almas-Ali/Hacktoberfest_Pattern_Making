@@ -11,7 +11,7 @@ In each respective folder on any topic, don't forget to read the rules below to 
 <p>⚙️ Visit The Hacktoberfest website for more information <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2021</a>
 <br/>
 <img src="./images/logo-hacktoberfest-full.f42e3b1.jpg">
-<p>🛠 Welcome to hacktobefest 2021 Event</p>
+<p>🛠 Welcome to Hacktobefest 2021 Event</p>
 
 <h3>How To Contribute</h3>
 <p>⌛️ In order to do successful contribution you must read the rules at the bottom; all pull requests will be accepted by those who correctly submitted their PR.</p>
