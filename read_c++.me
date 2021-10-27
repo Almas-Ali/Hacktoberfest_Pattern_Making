@@ -1,0 +1,110 @@
+   c++ Program to Print Square Star Pattern
+Write a C++ Program to Print Square Star Pattern with an example. This C++ square pattern program allows us to enter any side of a square. Next, the nested for loops will iterate between 0 and side to print the *.
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int i, j, side;
+	
+	cout << "\nPlease Enter Any Side of Square  =  ";
+	cin >> side;	
+	
+	cout << "\n-----Square Star Pattern-----\n";
+	for (i = 0; i < side; i++)
+	{
+		for (j = 0; j < side; j++)
+		{
+			cout << "*";
+		}
+		cout << "\n";
+	}
+ 	return 0;
+}
+C++ Program to Print Square Star Pattern 1
+This C++ Square Star Pattern example allows the user to enter his/her own symbol. Next, it prints the square pattern of that given character.
+
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int i, j, side;
+	char ch;
+	
+	cout << "\nPlease Enter Any Side of Square  =  ";
+	cin >> side;
+	
+	cout << "\nPlease Enter Any Symbol to Print  =  ";
+	cin >> ch;	
+		
+	cout << "\n-----Square Pattern-----\n";
+	for (i = 0; i < side; i++)
+	{
+		for (j = 0; j < side; j++)
+		{
+			cout << ch;
+		}
+		cout << "\n";
+	}
+ 	return 0;
+}
+Please Enter Any Side of Square  =  8
+
+Please Enter Any Symbol to Print  =  @
+
+-----Square Pattern-----
+@@@@@@@@
+@@@@@@@@
+@@@@@@@@
+@@@@@@@@
+@@@@@@@@
+@@@@@@@@
+@@@@@@@@
+@@@@@@@@
+C++ Program to Print Square Star Pattern using a While loop
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int i, j, side;
+	char ch;
+	
+	cout << "\nPlease Enter Any Side of Square  =  ";
+	cin >> side;
+	
+	cout << "\nPlease Enter Any Symbol to Print  =  ";
+	cin >> ch;	
+		
+	cout << "\n-----Square Pattern-----\n";
+	i = 0;
+	while (i < side)
+	{
+		j = 0;
+		while (j < side)
+		{
+			cout << ch;
+			j++;
+		}
+		cout << "\n";
+		i++;
+	}
+ 	return 0;
+}
+Please Enter Any Side of Square  =  9
+
+Please Enter Any Symbol to Print  =  $
+
+-----Square Pattern-----
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
+$$$$$$$$$
