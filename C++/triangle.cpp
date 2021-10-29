@@ -6,10 +6,10 @@ using namespace std;
 #define all(v) v.begin(),v.end() 
 #define SZ(x) ((int)(x).size())
 #define br cout <<"\n";
-// bool cmp( pair<int,int> a , pair<int,int> b ){
-//     if( a.first == b.first )
-//         return (a.second > b.second);
-//     return a.first < b.first ;
+//bool cmp( pair<int,int> a , pair<int,int> b ){
+//    if( a.first == b.first )
+//        return (a.second > b.second);
+//    return a.first < b.first ;
 // }
 const int MOD = 1000000007;
 const int INF = 1e18;
