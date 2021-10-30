@@ -1,4 +1,5 @@
 /* Java program for Merge Sort */
+/*start program*/
 class MergeSort
 {
 	// Merges two subarrays of arr[].
@@ -96,3 +97,4 @@ class MergeSort
 	}
 }
 /* This code is contributed by Rajat Mishra */
+/*End program*/
