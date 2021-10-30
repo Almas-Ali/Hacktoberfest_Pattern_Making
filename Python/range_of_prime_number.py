@@ -9,3 +9,5 @@ for num in range(min,max):
             prime = False
     if prime:
         print (num)
+
+# This code is contributed by Lívia Mendes ;)
