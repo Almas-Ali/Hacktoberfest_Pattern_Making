@@ -2,7 +2,7 @@
 
 # To heapify subtree rooted at index i.
 # n is size of heap
-
+# This is a Patternmaking program.
 
 def heapify(arr, n, i):
 	largest = i # Initialize largest as root
