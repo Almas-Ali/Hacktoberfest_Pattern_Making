@@ -32,6 +32,8 @@ Check bellow code as referance.
 | Adarsh Raj | <a href="https://github.com/dimensionl3ss">dimensionl3ss</a> | <a href="mailto:adarshraj0210@gmail.com">Mail</a> |
 | Prateiku | <a href="https://github.com/Prateiku">MPrateiku</a> | <a href="mailto:godsgift2000@gmail.com">Mail</a> |
 | Ritik Shrestha | <a href="https://github.com/shresritik">shresritik</a> | <a href="mailto:shrestharitik@gmail.com">Mail</a> |
+| Vidnyani Umathe | <a href="https://github.com/vidnyani">vidnyani</a> | <a href="mailto:vidnyaniumathe10@gmail.com">Mail</a> |
+
 
 
 <br/>
