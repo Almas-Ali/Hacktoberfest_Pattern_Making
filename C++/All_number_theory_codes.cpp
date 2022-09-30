@@ -1,4 +1,7 @@
 
+//Github name: itz-arnav
+//Contributed by Arnav Jha for hacktoberfest2022
+
 #include <bits/stdc++.h>
 using namespace std;
 
