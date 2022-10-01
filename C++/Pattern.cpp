@@ -3,24 +3,16 @@ using namespace std;
 
 int main()
 {
-    int rows, coef = 1;
+    int rows;
 
     cout << "Enter number of rows: ";
     cin >> rows;
 
-    for(int i = 0; i < rows; i++)
+    for(int i = rows; i >= 1; --i)
     {
-        for(int space = 1; space <= rows-i; space++)
-            cout <<"  ";
-
-        for(int j = 0; j <= i; j++)
+        for(int j = 1; j <= i; ++j)
         {
-            if (j == 0 || i == 0)
-                coef = 1;
-            else
-                coef = coef*(i-j+1)/j;
-
-            cout << coef << "   ";
+            cout << j << " ";
         }
         cout << endl;
     }
