@@ -16,6 +16,7 @@ Check bellow code as referance.
 
 | Name | Github Link | Email ID |
 | ------|----------|---------- |
+| agusardi | <a href="https://github.com/letdummy">letdummy</a> | <a href="mailto:agusardinh@gmail.com">Mail</a> |
 | Md. Almas Ali 🏅 | <a href="https://github.com/Almas-Ali">Almas-Ali</a> | <a href="mailto:almaspr3@gmail.com">Mail</a> |
 | Junaid shah | <a href="https://github.com/jsh854">junaid shah</a> | <a href="mailto:junaidshah349@gmail.com">Mail</a> |
 | Fazil Khan | <a href="https://github.com/comedianfazil">Fazil-Khan</a> | <a href="mailto:comfazil@yahoo.com">Mail</a> |
