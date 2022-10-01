@@ -31,6 +31,7 @@ Check bellow code as referance.
 | Maheep Kumar | <a href="https://github.com/MaheepK9">Maheep Kumar</a> | <a href="mailto:maheepkumar972000@gmail.com">Mail</a> |
 | Adarsh Raj | <a href="https://github.com/dimensionl3ss">dimensionl3ss</a> | <a href="mailto:adarshraj0210@gmail.com">Mail</a> |
 | Prateiku | <a href="https://github.com/Prateiku">MPrateiku</a> | <a href="mailto:godsgift2000@gmail.com">Mail</a> |
+| Aditya Giri | <a href="https://github.com/aditya-464">Aditya Giri</a> | <a href="mailto:reetbharti873@gmail.com">Mail</a> |
 | Ritik Shrestha | <a href="https://github.com/shresritik">shresritik</a> | <a href="mailto:shrestharitik@gmail.com">Mail</a> |
 | Harshbardhan Singh | <a href="https://github.com/harsh1x4">harsh1x4</a> | <a href="mailto:harshbsi567@gmail.com">Mail</a> |
 | Dhanraj Singh | <a href="https://github.com/sdhanraj300">sdhanraj300</a> | <a href="mailto:sdhanraj300@gmail.com">Mail</a> |
