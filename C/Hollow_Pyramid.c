@@ -1,3 +1,6 @@
+//github - chiragchandnani10 
+//https://github.com/chiragchandnani10
+
 #include<stdio.h>
   
 int main()  
