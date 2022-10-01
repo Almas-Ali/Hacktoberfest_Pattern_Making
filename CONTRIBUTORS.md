@@ -35,6 +35,7 @@ Check bellow code as referance.
 | Harshbardhan Singh | <a href="https://github.com/harsh1x4">harsh1x4</a> | <a href="mailto:harshbsi567@gmail.com">Mail</a> |
 | Dhanraj Singh | <a href="https://github.com/sdhanraj300">sdhanraj300</a> | <a href="mailto:sdhanraj300@gmail.com">Mail</a> |
 | Bhavik Agrawal | <a href="https://github.com/Bhavik0902?">Bhavik0902</a> | <a href="bhavikagrawal0902@gmail.com">Mail</a> |
+| Dhanush Nehru | <a href="github.com/dhanushnehru">DhanushNehru</a> | <a href="dhanushxenocrate@gmail.com">Mail</a> |
 
 <br/>
 <h2>🖥️ Happy Hacking...</h2>
