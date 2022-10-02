@@ -1,7 +1,7 @@
 class FloydTriangle:
 
     @staticmethod
-    def calculate_width_of_triangle(rows:int):
+    def calculate_width_of_triangle(rows: int):
         last_row = rows - 1
         last_row_start_num = (pow(last_row, 2) + last_row + 2)//2
         last_row_end_num = last_row_start_num + rows
@@ -10,12 +10,12 @@ class FloydTriangle:
             width += len(str(i)) + 1
         width -= 2
         return width
-    
+
     @staticmethod
-    def create(rows:int, start_num:int = 1, flip_horizontally:bool = False, flip_vertically:bool = False):
+    def create(rows: int, start_num: int = 1, flip_horizontally: bool = False, flip_vertically: bool = False):
         print_num = start_num
-        
-        if not flip_horizontally and not flip_vertically: 
+
+        if not flip_horizontally and not flip_vertically:
             for row in range(1, rows+1):
                 for _ in range(row):
                     print(print_num, end=" ")
@@ -62,5 +62,6 @@ if __name__ == "__main__":
     print(f"\n[INFO] Vertically flipped Floyd Triangle of {rows} rows")
     FloydTriangle().create(rows, flip_vertically=True)
 
-    print(f"\n[INFO] Horizontally and vertically flipped Floyd Triangle of {rows} rows")
+    print(
+        f"\n[INFO] Horizontally and vertically flipped Floyd Triangle of {rows} rows")
     FloydTriangle().create(rows, flip_horizontally=True, flip_vertically=True)
