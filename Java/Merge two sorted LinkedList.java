@@ -1,3 +1,5 @@
+solution by: Adityp-3055
+
 class mergeSortList{
   public static LinkedListNode merge_sorted(
       LinkedListNode head1,
