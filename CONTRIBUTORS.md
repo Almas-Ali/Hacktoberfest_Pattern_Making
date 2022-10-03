@@ -1,5 +1,5 @@
-<h1>Welcome to Hacktoberfest 2021</h1>
-<p>Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.</p>
+<h1>Welcome to Hacktoberfest 2022</h1>
+<p>Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.</p>
 <code>| contributer name | contributer github id | contributer mailid |</code>
 <br/>
 <p>
@@ -37,6 +37,7 @@ Check bellow code as referance.
 | Dhanraj Singh | <a href="https://github.com/sdhanraj300">sdhanraj300</a> | <a href="mailto:sdhanraj300@gmail.com">Mail</a> |
 | Bhavik Agrawal | <a href="https://github.com/Bhavik0902?">Bhavik0902</a> | <a href="bhavikagrawal0902@gmail.com">Mail</a> |
 | Arn Arn | <a href="https://github.com/arn355">arn355</a> | <a href="mailto:arn.arn3328@gmail.com">Mail</a> |
+| Vivek Dharewa | <a href="https://github.com/Vice777">Vivek Dharewa</a> | <a href="mailto:vivekdharewa2002@gmail.com">Mail</a> |
 
 <br/>
 <h2>🖥️ Happy Hacking...</h2>
