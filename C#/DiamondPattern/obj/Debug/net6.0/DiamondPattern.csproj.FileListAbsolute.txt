@@ -1,0 +1,15 @@
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\bin\Debug\net6.0\DiamondPattern.exe
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\bin\Debug\net6.0\DiamondPattern.deps.json
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\bin\Debug\net6.0\DiamondPattern.runtimeconfig.json
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\bin\Debug\net6.0\DiamondPattern.dll
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\bin\Debug\net6.0\DiamondPattern.pdb
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.csproj.AssemblyReference.cache
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.AssemblyInfoInputs.cache
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.AssemblyInfo.cs
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.csproj.CoreCompileInputs.cache
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.dll
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\refint\DiamondPattern.dll
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.pdb
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\DiamondPattern.genruntimeconfig.cache
+D:\HacktoberFest\Hacktoberfest_Pattern_Making\C#\DiamondPattern\obj\Debug\net6.0\ref\DiamondPattern.dll
