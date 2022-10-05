@@ -38,6 +38,7 @@ Check bellow code as referance.
 | Bhavik Agrawal | <a href="https://github.com/Bhavik0902?">Bhavik0902</a> | <a href="bhavikagrawal0902@gmail.com">Mail</a> |
 | Arn Arn | <a href="https://github.com/arn355">arn355</a> | <a href="mailto:arn.arn3328@gmail.com">Mail</a> |
 | Sarthak Roy | <a href="https://github.com/sarthakroy2002">sarthakroy2002</a> | <a href="sarthakroy2002@gmail.com">Mail</a> |
+| Alvaro Sato | <a href="https://github.com/AlvaroSato">AlvaroSato</a> | <a href="alvarosato00@gmail.com">Mail</a> |
 
 <br/>
 <h2>🖥️ Happy Hacking...</h2>
