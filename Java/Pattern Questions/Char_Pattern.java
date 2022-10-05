@@ -19,14 +19,17 @@ public class Main {
             System.out.println();
         }
 
-        // 1
-        // 1 2 1
-        // 1 2 3 2 1
-        // 1 2 3 4 3 2 1
-        // 1 2 3 4 5 4 3 2 1
+//                1
+//              1 2 1
+//            1 2 3 2 1
+//          1 2 3 4 3 2 1
+//        1 2 3 4 5 4 3 2 1
 
     }
 
+    
+    
+    
     static void Pattern18() {
         // Q. Form a pattern with specific word;
         // word : "CODER"
