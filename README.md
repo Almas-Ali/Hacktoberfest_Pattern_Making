@@ -1,7 +1,7 @@
 <h1>✨Hacktober Fest 2022✨</h1>
-<p>🙂 All Contributors are requested to star this repo and follow me for a successful merge of pull request.🙂 <strong>(*Required!)</strong></p>
+<p>🙂 All Contributors Are Requested To Star This Repo And Follow Me For A Successful Merge Of Pull Request.🙂 <strong>(*Required!)</strong></p>
 <br/>
-<h3>👉 Add any pattern program in any programming language<br/>
+<h3>👉 Add Any Pattern Program In Any Programming Language<br/>
 -🤖 C <br/>
 -🤖 C++ <br/>
 -🤖 C# <br/>
